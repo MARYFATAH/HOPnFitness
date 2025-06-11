@@ -15,3 +15,7 @@ This is the splash/start page for the HOPn Fitness app.
 - Simple, clean design focusing on user experience
 
 ---
+
+You can check out the design prototype here on Figma:  
+[HOPn Fitness Design on Figma](https://www.figma.com/design/F2XemwaNWZ9QaPvj0WlJUw/HOPn?node-id=17-177&m=dev&t=c2ZfmLEXhCSvoczC-1)
+[HOPn Fitness Prototype on Figma](https://www.figma.com/proto/F2XemwaNWZ9QaPvj0WlJUw/HOPn?node-id=5-100&t=VQ2qUo3ORUArcKxz-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=17%3A177)
